@@ -3,7 +3,7 @@
 ## File Structure: 
 **"IA_counties"** : folder containing geo information for Iowa. The files in this folder contain the geometry of Iowa counties and information on their population and voting patterns since the early 2000s connected to each county.
 
-**Group 6 ACE 592 FinalPaper.docx**: Paper disucssing the results of this project and the context behind liquor sales and the US presidential election in Iowa. 
+**Team6WriteUp.pdf**: Paper disucssing the results of this project and the context behind liquor sales and the US presidential election in Iowa. 
 
 **Iowa Liqour Data Vis.ipynb**: Uses outputted data from liqour consumption (csv files located in this repository) to merge and visualize with voting data relevant to 2016 election. 
 
